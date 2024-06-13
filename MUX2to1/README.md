@@ -8,4 +8,4 @@
 </center>
 
 # About the project
-I referred to the Verilog tutorials by the YouTuber Merak Channel.
+I referred to the Verilog tutorial from YouTuber Merak's channel.
