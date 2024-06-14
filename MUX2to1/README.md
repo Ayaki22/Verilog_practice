@@ -12,9 +12,9 @@ I referred to the Verilog tutorial from YouTuber Merak's channel.
 
 |     |  sel = 0   | sel = 1  |
 |  :----:  |  :----:  | :----:  |
-| a = 0,b = 0 | ![sel0_a0_b0](../img/sel0_a0_b0.jpg) | ![sel1_a0_b0](../img/sel1_a0_b0.jpg) |
-| a = 1,b = 0 | ![sel0_a1_b0](../img/sel0_a1_b0.jpg) | ![sel1_a1_b0](../img/sel1_a1_b0.jpg) |
-| a = 0,b = 1 | ![sel0_a0_b1](../img/sel0_a0_b1.jpg) | ![sel1_a0_b1](../img/sel1_a0_b1.jpg) |
-| a = 1,b = 1 | ![sel0_a1_b1](../img/sel0_a1_b1.jpg) | ![sel1_a1_b1](../img/sel1_a1_b1.jpg) |
+| a = 0,b = 0 | ![sel0_a0_b0](./img/sel0_a0_b0.jpg) | ![sel1_a0_b0](./img/sel1_a0_b0.jpg) |
+| a = 1,b = 0 | ![sel0_a1_b0](./img/sel0_a1_b0.jpg) | ![sel1_a1_b0](./img/sel1_a1_b0.jpg) |
+| a = 0,b = 1 | ![sel0_a0_b1](./img/sel0_a0_b1.jpg) | ![sel1_a0_b1](./img/sel1_a0_b1.jpg) |
+| a = 1,b = 1 | ![sel0_a1_b1](./img/sel0_a1_b1.jpg) | ![sel1_a1_b1](./img/sel1_a1_b1.jpg) |
 
-![waveform](../img/Waveform.png)
+![waveform](./img/Waveform.png)
