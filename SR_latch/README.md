@@ -10,6 +10,6 @@
 # About the project
 The design of an SR latch, in which set and reset changes are made in SR_latch_tb.
 
-![waveform](./img/Waveform.png)
+![waveform](./img/waveform.png)
 
 ![monitor](./img/monitor.png)
