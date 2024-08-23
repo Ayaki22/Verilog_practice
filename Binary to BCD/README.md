@@ -9,6 +9,7 @@
 
 # About the project
 I referred to the Verilog tutorial from YouTuber Merak's channel.
+
 * ADD6
 ![ADD6](./IMG/ADD6.jpg)
 * BCDADD
